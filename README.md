@@ -15,11 +15,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/cout-arya/leetcode-practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/cout-arya/leetcode-practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/cout-arya/leetcode-practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/cout-arya/leetcode-practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/cout-arya/leetcode-practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Matrix
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/cout-arya/leetcode-practice/tree/master/0054-spiral-matrix) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/cout-arya/leetcode-practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/cout-arya/leetcode-practice/tree/master/0128-longest-consecutive-sequence) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/cout-arya/leetcode-practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Enumeration
 |  |
 | ------- |
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/cout-arya/leetcode-practice/tree/master/0322-coin-change) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/cout-arya/leetcode-practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Backtracking
 |  |
 | ------- |
@@ -77,4 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/cout-arya/leetcode-practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Binary Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/cout-arya/leetcode-practice/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/cout-arya/leetcode-practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
