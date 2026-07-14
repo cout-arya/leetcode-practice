@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/cout-arya/leetcode-practice/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/cout-arya/leetcode-practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/cout-arya/leetcode-practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/cout-arya/leetcode-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/cout-arya/leetcode-practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/cout-arya/leetcode-practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/cout-arya/leetcode-practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/cout-arya/leetcode-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/cout-arya/leetcode-practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/cout-arya/leetcode-practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
@@ -176,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/cout-arya/leetcode-practice/tree/master/0044-wildcard-matching) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/cout-arya/leetcode-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
