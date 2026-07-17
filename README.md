@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/cout-arya/leetcode-practice/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/cout-arya/leetcode-practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/cout-arya/leetcode-practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1668-maximum-repeating-substring](https://github.com/cout-arya/leetcode-practice/tree/master/1668-maximum-repeating-substring) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/cout-arya/leetcode-practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/cout-arya/leetcode-practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/cout-arya/leetcode-practice/tree/master/1092-shortest-common-supersequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/cout-arya/leetcode-practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/cout-arya/leetcode-practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1668-maximum-repeating-substring](https://github.com/cout-arya/leetcode-practice/tree/master/1668-maximum-repeating-substring) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/cout-arya/leetcode-practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/cout-arya/leetcode-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/cout-arya/leetcode-practice/tree/master/3620-network-recovery-pathways) |
@@ -223,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/cout-arya/leetcode-practice/tree/master/3312-sorted-gcd-pair-queries) |
+## String Matching
+|  |
+| ------- |
+| [1668-maximum-repeating-substring](https://github.com/cout-arya/leetcode-practice/tree/master/1668-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
