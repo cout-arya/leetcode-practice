@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/cout-arya/leetcode-practice/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/cout-arya/leetcode-practice/tree/master/0054-spiral-matrix) |
 | [0415-add-strings](https://github.com/cout-arya/leetcode-practice/tree/master/0415-add-strings) |
 | [1260-shift-2d-grid](https://github.com/cout-arya/leetcode-practice/tree/master/1260-shift-2d-grid) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/cout-arya/leetcode-practice/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/cout-arya/leetcode-practice/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/cout-arya/leetcode-practice/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/cout-arya/leetcode-practice/tree/master/0115-distinct-subsequences) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/cout-arya/leetcode-practice/tree/master/0043-multiply-strings) |
 | [0415-add-strings](https://github.com/cout-arya/leetcode-practice/tree/master/0415-add-strings) |
 | [1025-divisor-game](https://github.com/cout-arya/leetcode-practice/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/cout-arya/leetcode-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
