@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/cout-arya/leetcode-practice/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/cout-arya/leetcode-practice/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/cout-arya/leetcode-practice/tree/master/0518-coin-change-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/cout-arya/leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/cout-arya/leetcode-practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1260-shift-2d-grid](https://github.com/cout-arya/leetcode-practice/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/cout-arya/leetcode-practice/tree/master/1288-remove-covered-intervals) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/cout-arya/leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/cout-arya/leetcode-practice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/cout-arya/leetcode-practice/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/cout-arya/leetcode-practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/cout-arya/leetcode-practice/tree/master/0043-multiply-strings) |
 | [0415-add-strings](https://github.com/cout-arya/leetcode-practice/tree/master/0415-add-strings) |
+| [0628-maximum-product-of-three-numbers](https://github.com/cout-arya/leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/cout-arya/leetcode-practice/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/cout-arya/leetcode-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/cout-arya/leetcode-practice/tree/master/3312-sorted-gcd-pair-queries) |
