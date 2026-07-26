@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/cout-arya/leetcode-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/cout-arya/leetcode-practice/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0217-contains-duplicate](https://github.com/cout-arya/leetcode-practice/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/cout-arya/leetcode-practice/tree/master/0238-product-of-array-except-self) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/cout-arya/leetcode-practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/cout-arya/leetcode-practice/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/cout-arya/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/cout-arya/leetcode-practice/tree/master/0238-product-of-array-except-self) |
 | [3312-sorted-gcd-pair-queries](https://github.com/cout-arya/leetcode-practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/cout-arya/leetcode-practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Bit Manipulation
