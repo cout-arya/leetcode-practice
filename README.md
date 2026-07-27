@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/cout-arya/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/cout-arya/leetcode-practice/tree/master/0128-longest-consecutive-sequence) |
+| [0133-clone-graph](https://github.com/cout-arya/leetcode-practice/tree/master/0133-clone-graph) |
 | [0217-contains-duplicate](https://github.com/cout-arya/leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/cout-arya/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [1331-rank-transform-of-an-array](https://github.com/cout-arya/leetcode-practice/tree/master/1331-rank-transform-of-an-array) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/cout-arya/leetcode-practice/tree/master/0133-clone-graph) |
 | [0322-coin-change](https://github.com/cout-arya/leetcode-practice/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/cout-arya/leetcode-practice/tree/master/0695-max-area-of-island) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/cout-arya/leetcode-practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/cout-arya/leetcode-practice/tree/master/0133-clone-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/cout-arya/leetcode-practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/cout-arya/leetcode-practice/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/cout-arya/leetcode-practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/cout-arya/leetcode-practice/tree/master/0133-clone-graph) |
 | [0695-max-area-of-island](https://github.com/cout-arya/leetcode-practice/tree/master/0695-max-area-of-island) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/cout-arya/leetcode-practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/cout-arya/leetcode-practice/tree/master/2685-count-the-number-of-complete-components) |
