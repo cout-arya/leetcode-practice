@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/cout-arya/leetcode-practice/tree/master/0011-container-with-most-water) |
+| [0036-valid-sudoku](https://github.com/cout-arya/leetcode-practice/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/cout-arya/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/cout-arya/leetcode-practice/tree/master/0054-spiral-matrix) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/cout-arya/leetcode-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/cout-arya/leetcode-practice/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/cout-arya/leetcode-practice/tree/master/0054-spiral-matrix) |
 | [0695-max-area-of-island](https://github.com/cout-arya/leetcode-practice/tree/master/0695-max-area-of-island) |
 | [1260-shift-2d-grid](https://github.com/cout-arya/leetcode-practice/tree/master/1260-shift-2d-grid) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/cout-arya/leetcode-practice/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/cout-arya/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/cout-arya/leetcode-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/cout-arya/leetcode-practice/tree/master/0133-clone-graph) |
