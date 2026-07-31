@@ -1,7 +1,10 @@
 class Solution {
 public:
-    int minimumPushes(string A) {
-        auto q = A.size() >> 3, r = A.size() & 7;
-        return ((q << 2) + r) * (q + 1);
+    int minimumPushes(string word) {
+        int pushes = 0;
+        for (int i = 0; i < word.size(); i++) {
+            pushes += (i / 8) + 1;
+        }
+        return pushes;
     }
 };
