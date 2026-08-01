@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/cout-arya/leetcode-practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/cout-arya/leetcode-practice/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/cout-arya/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
+| [0486-predict-the-winner](https://github.com/cout-arya/leetcode-practice/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/cout-arya/leetcode-practice/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/cout-arya/leetcode-practice/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/cout-arya/leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/cout-arya/leetcode-practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/cout-arya/leetcode-practice/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/cout-arya/leetcode-practice/tree/master/0392-is-subsequence) |
+| [0486-predict-the-winner](https://github.com/cout-arya/leetcode-practice/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/cout-arya/leetcode-practice/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/cout-arya/leetcode-practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/cout-arya/leetcode-practice/tree/master/0518-coin-change-ii) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/cout-arya/leetcode-practice/tree/master/0043-multiply-strings) |
 | [0415-add-strings](https://github.com/cout-arya/leetcode-practice/tree/master/0415-add-strings) |
+| [0486-predict-the-winner](https://github.com/cout-arya/leetcode-practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/cout-arya/leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/cout-arya/leetcode-practice/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/cout-arya/leetcode-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/cout-arya/leetcode-practice/tree/master/0044-wildcard-matching) |
+| [0486-predict-the-winner](https://github.com/cout-arya/leetcode-practice/tree/master/0486-predict-the-winner) |
 ## Number Theory
 |  |
 | ------- |
@@ -320,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/cout-arya/leetcode-practice/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/cout-arya/leetcode-practice/tree/master/1025-divisor-game) |
 ## Stack
 |  |
