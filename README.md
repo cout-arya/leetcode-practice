@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/cout-arya/leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/cout-arya/leetcode-practice/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/cout-arya/leetcode-practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0739-daily-temperatures](https://github.com/cout-arya/leetcode-practice/tree/master/0739-daily-temperatures) |
 | [1260-shift-2d-grid](https://github.com/cout-arya/leetcode-practice/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/cout-arya/leetcode-practice/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/cout-arya/leetcode-practice/tree/master/1301-number-of-paths-with-max-score) |
@@ -330,11 +331,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/cout-arya/leetcode-practice/tree/master/0316-remove-duplicate-letters) |
+| [0739-daily-temperatures](https://github.com/cout-arya/leetcode-practice/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/cout-arya/leetcode-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/cout-arya/leetcode-practice/tree/master/0316-remove-duplicate-letters) |
+| [0739-daily-temperatures](https://github.com/cout-arya/leetcode-practice/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/cout-arya/leetcode-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Segment Tree
 |  |
