@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/cout-arya/leetcode-practice/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/cout-arya/leetcode-practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0739-daily-temperatures](https://github.com/cout-arya/leetcode-practice/tree/master/0739-daily-temperatures) |
+| [0877-stone-game](https://github.com/cout-arya/leetcode-practice/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/cout-arya/leetcode-practice/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/cout-arya/leetcode-practice/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/cout-arya/leetcode-practice/tree/master/1301-number-of-paths-with-max-score) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/cout-arya/leetcode-practice/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/cout-arya/leetcode-practice/tree/master/0583-delete-operation-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/cout-arya/leetcode-practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0877-stone-game](https://github.com/cout-arya/leetcode-practice/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/cout-arya/leetcode-practice/tree/master/1025-divisor-game) |
 | [1092-shortest-common-supersequence](https://github.com/cout-arya/leetcode-practice/tree/master/1092-shortest-common-supersequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/cout-arya/leetcode-practice/tree/master/1301-number-of-paths-with-max-score) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/cout-arya/leetcode-practice/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/cout-arya/leetcode-practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/cout-arya/leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/cout-arya/leetcode-practice/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/cout-arya/leetcode-practice/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/cout-arya/leetcode-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/cout-arya/leetcode-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/cout-arya/leetcode-practice/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/cout-arya/leetcode-practice/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/cout-arya/leetcode-practice/tree/master/1025-divisor-game) |
 ## Stack
 |  |
