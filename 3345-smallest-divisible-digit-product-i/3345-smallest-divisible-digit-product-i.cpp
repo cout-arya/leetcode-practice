@@ -1,8 +1,7 @@
 class Solution {
 public:
     int smallestNumber(int n, int t) {
-        bool flag = false;
-        while (flag == false) {
+        while (true) {
             int x = n;
             int sum = 1;
             while (x > 0) {
@@ -11,12 +10,9 @@ public:
                 x /= 10;
             }
             if (sum % t == 0) {
-                flag = true;
-                break;
-            } else {
-                n++;
+                return n;
             }
+            n++;
         }
-        return n;
     }
 };
