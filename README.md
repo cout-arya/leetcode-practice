@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/cout-arya/leetcode-practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/cout-arya/leetcode-practice/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0264-ugly-number-ii](https://github.com/cout-arya/leetcode-practice/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/cout-arya/leetcode-practice/tree/master/0279-perfect-squares) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/cout-arya/leetcode-practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/cout-arya/leetcode-practice/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/cout-arya/leetcode-practice/tree/master/0392-is-subsequence) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/cout-arya/leetcode-practice/tree/master/0133-clone-graph) |
+| [0279-perfect-squares](https://github.com/cout-arya/leetcode-practice/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/cout-arya/leetcode-practice/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/cout-arya/leetcode-practice/tree/master/0695-max-area-of-island) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/cout-arya/leetcode-practice/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/cout-arya/leetcode-practice/tree/master/0043-multiply-strings) |
 | [0264-ugly-number-ii](https://github.com/cout-arya/leetcode-practice/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/cout-arya/leetcode-practice/tree/master/0279-perfect-squares) |
 | [0415-add-strings](https://github.com/cout-arya/leetcode-practice/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/cout-arya/leetcode-practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/cout-arya/leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -429,4 +432,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/cout-arya/leetcode-practice/tree/master/0023-merge-k-sorted-lists) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/cout-arya/leetcode-practice/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/cout-arya/leetcode-practice/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
