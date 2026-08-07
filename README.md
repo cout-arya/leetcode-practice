@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/cout-arya/leetcode-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/cout-arya/leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/cout-arya/leetcode-practice/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0204-count-primes](https://github.com/cout-arya/leetcode-practice/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/cout-arya/leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/cout-arya/leetcode-practice/tree/master/0238-product-of-array-except-self) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/cout-arya/leetcode-practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/cout-arya/leetcode-practice/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/cout-arya/leetcode-practice/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/cout-arya/leetcode-practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/cout-arya/leetcode-practice/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/cout-arya/leetcode-practice/tree/master/0043-multiply-strings) |
+| [0204-count-primes](https://github.com/cout-arya/leetcode-practice/tree/master/0204-count-primes) |
 | [0264-ugly-number-ii](https://github.com/cout-arya/leetcode-practice/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/cout-arya/leetcode-practice/tree/master/0279-perfect-squares) |
 | [0415-add-strings](https://github.com/cout-arya/leetcode-practice/tree/master/0415-add-strings) |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/cout-arya/leetcode-practice/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/cout-arya/leetcode-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/cout-arya/leetcode-practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/cout-arya/leetcode-practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -440,4 +444,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/cout-arya/leetcode-practice/tree/master/0279-perfect-squares) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/cout-arya/leetcode-practice/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/cout-arya/leetcode-practice/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/cout-arya/leetcode-practice/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
