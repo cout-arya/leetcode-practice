@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/cout-arya/leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/cout-arya/leetcode-practice/tree/master/0392-is-subsequence) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/cout-arya/leetcode-practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/cout-arya/leetcode-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/cout-arya/leetcode-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/cout-arya/leetcode-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/cout-arya/leetcode-practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/cout-arya/leetcode-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/cout-arya/leetcode-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/cout-arya/leetcode-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/cout-arya/leetcode-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/cout-arya/leetcode-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/cout-arya/leetcode-practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/cout-arya/leetcode-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/cout-arya/leetcode-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/cout-arya/leetcode-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/cout-arya/leetcode-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/cout-arya/leetcode-practice/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/cout-arya/leetcode-practice/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/cout-arya/leetcode-practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1406-stone-game-iii](https://github.com/cout-arya/leetcode-practice/tree/master/1406-stone-game-iii) |
 | [1668-maximum-repeating-substring](https://github.com/cout-arya/leetcode-practice/tree/master/1668-maximum-repeating-substring) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/cout-arya/leetcode-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/cout-arya/leetcode-practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/cout-arya/leetcode-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/cout-arya/leetcode-practice/tree/master/3620-network-recovery-pathways) |
