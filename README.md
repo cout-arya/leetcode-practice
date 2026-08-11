@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/cout-arya/leetcode-practice/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/cout-arya/leetcode-practice/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/cout-arya/leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/cout-arya/leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/cout-arya/leetcode-practice/tree/master/0005-longest-palindromic-substring) |
 | [0043-multiply-strings](https://github.com/cout-arya/leetcode-practice/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/cout-arya/leetcode-practice/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/cout-arya/leetcode-practice/tree/master/0049-group-anagrams) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/cout-arya/leetcode-practice/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/cout-arya/leetcode-practice/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/cout-arya/leetcode-practice/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/cout-arya/leetcode-practice/tree/master/0115-distinct-subsequences) |
@@ -483,4 +486,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/cout-arya/leetcode-practice/tree/master/1510-stone-game-iv) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/cout-arya/leetcode-practice/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
