@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/cout-arya/leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/cout-arya/leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/cout-arya/leetcode-practice/tree/master/0392-is-subsequence) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/cout-arya/leetcode-practice/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/cout-arya/leetcode-practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/cout-arya/leetcode-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/cout-arya/leetcode-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/cout-arya/leetcode-practice/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/cout-arya/leetcode-practice/tree/master/0024-swap-nodes-in-pairs) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/cout-arya/leetcode-practice/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
