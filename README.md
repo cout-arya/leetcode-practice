@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/cout-arya/leetcode-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/cout-arya/leetcode-practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/cout-arya/leetcode-practice/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/cout-arya/leetcode-practice/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/cout-arya/leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/cout-arya/leetcode-practice/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0204-count-primes](https://github.com/cout-arya/leetcode-practice/tree/master/0204-count-primes) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/cout-arya/leetcode-practice/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/cout-arya/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/cout-arya/leetcode-practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/cout-arya/leetcode-practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
