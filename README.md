@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/cout-arya/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/cout-arya/leetcode-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/cout-arya/leetcode-practice/tree/master/0133-clone-graph) |
+| [0138-copy-list-with-random-pointer](https://github.com/cout-arya/leetcode-practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0217-contains-duplicate](https://github.com/cout-arya/leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0264-ugly-number-ii](https://github.com/cout-arya/leetcode-practice/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/cout-arya/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/cout-arya/leetcode-practice/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/cout-arya/leetcode-practice/tree/master/0024-swap-nodes-in-pairs) |
+| [0138-copy-list-with-random-pointer](https://github.com/cout-arya/leetcode-practice/tree/master/0138-copy-list-with-random-pointer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/cout-arya/leetcode-practice/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Merge Sort
 |  |
