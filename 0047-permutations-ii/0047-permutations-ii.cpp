@@ -1,14 +1,14 @@
 class Solution {
 public:
-    void solve(vector<int> nums, vector<vector<int>>& res, int idx) {
-        if (idx == size(nums)) {
+    void solve(vector<int> nums, vector<vector<int>>& res, int i) {
+        if (i == size(nums)) {
             res.push_back(nums);
         }
-        for (int i = idx; i < nums.size(); ++i) {
-            if (i != idx && nums[i] == nums[idx])
+        for (int j = i; j < nums.size(); ++j) {
+            if (j != i && nums[j] == nums[i])
                 continue;
-            swap(nums[i], nums[idx]);
-            solve(nums, res, idx + 1);
+            swap(nums[j], nums[i]);
+            solve(nums, res, i + 1);
         }
     }
     vector<vector<int>> permuteUnique(vector<int>& nums) {
