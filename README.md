@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/cout-arya/leetcode-practice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/cout-arya/leetcode-practice/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/cout-arya/leetcode-practice/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/cout-arya/leetcode-practice/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/cout-arya/leetcode-practice/tree/master/0054-spiral-matrix) |
 | [0090-subsets-ii](https://github.com/cout-arya/leetcode-practice/tree/master/0090-subsets-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/cout-arya/leetcode-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/cout-arya/leetcode-practice/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/cout-arya/leetcode-practice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/cout-arya/leetcode-practice/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/cout-arya/leetcode-practice/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/cout-arya/leetcode-practice/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/cout-arya/leetcode-practice/tree/master/0494-target-sum) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/cout-arya/leetcode-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -551,4 +553,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/cout-arya/leetcode-practice/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/cout-arya/leetcode-practice/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
