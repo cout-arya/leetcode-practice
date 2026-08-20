@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/cout-arya/leetcode-practice/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/cout-arya/leetcode-practice/tree/master/0036-valid-sudoku) |
+| [0046-permutations](https://github.com/cout-arya/leetcode-practice/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/cout-arya/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/cout-arya/leetcode-practice/tree/master/0054-spiral-matrix) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/cout-arya/leetcode-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/cout-arya/leetcode-practice/tree/master/0046-permutations) |
 | [0494-target-sum](https://github.com/cout-arya/leetcode-practice/tree/master/0494-target-sum) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/cout-arya/leetcode-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sliding Window
