@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/cout-arya/leetcode-practice/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/cout-arya/leetcode-practice/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/cout-arya/leetcode-practice/tree/master/0125-valid-palindrome) |
+| [0257-binary-tree-paths](https://github.com/cout-arya/leetcode-practice/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/cout-arya/leetcode-practice/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/cout-arya/leetcode-practice/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/cout-arya/leetcode-practice/tree/master/0392-is-subsequence) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/cout-arya/leetcode-practice/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/cout-arya/leetcode-practice/tree/master/0052-n-queens-ii) |
 | [0090-subsets-ii](https://github.com/cout-arya/leetcode-practice/tree/master/0090-subsets-ii) |
+| [0257-binary-tree-paths](https://github.com/cout-arya/leetcode-practice/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/cout-arya/leetcode-practice/tree/master/0494-target-sum) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/cout-arya/leetcode-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sliding Window
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/cout-arya/leetcode-practice/tree/master/0133-clone-graph) |
+| [0257-binary-tree-paths](https://github.com/cout-arya/leetcode-practice/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/cout-arya/leetcode-practice/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/cout-arya/leetcode-practice/tree/master/0695-max-area-of-island) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/cout-arya/leetcode-practice/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -475,11 +478,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/cout-arya/leetcode-practice/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/cout-arya/leetcode-practice/tree/master/0572-subtree-of-another-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/cout-arya/leetcode-practice/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/cout-arya/leetcode-practice/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/cout-arya/leetcode-practice/tree/master/0572-subtree-of-another-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/cout-arya/leetcode-practice/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Hash Function
