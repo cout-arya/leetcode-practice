@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/cout-arya/leetcode-practice/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/cout-arya/leetcode-practice/tree/master/0133-clone-graph) |
 | [0279-perfect-squares](https://github.com/cout-arya/leetcode-practice/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/cout-arya/leetcode-practice/tree/master/0322-coin-change) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/cout-arya/leetcode-practice/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/cout-arya/leetcode-practice/tree/master/0133-clone-graph) |
 | [0257-binary-tree-paths](https://github.com/cout-arya/leetcode-practice/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/cout-arya/leetcode-practice/tree/master/0572-subtree-of-another-tree) |
@@ -478,12 +480,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/cout-arya/leetcode-practice/tree/master/0112-path-sum) |
 | [0257-binary-tree-paths](https://github.com/cout-arya/leetcode-practice/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/cout-arya/leetcode-practice/tree/master/0572-subtree-of-another-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/cout-arya/leetcode-practice/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/cout-arya/leetcode-practice/tree/master/0112-path-sum) |
 | [0257-binary-tree-paths](https://github.com/cout-arya/leetcode-practice/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/cout-arya/leetcode-practice/tree/master/0572-subtree-of-another-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/cout-arya/leetcode-practice/tree/master/1448-count-good-nodes-in-binary-tree) |
