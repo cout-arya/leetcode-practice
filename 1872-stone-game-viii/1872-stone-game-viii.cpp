@@ -3,10 +3,10 @@ public:
     int stoneGameVIII(vector<int>& stones) {
         int n = stones.size();
         partial_sum(stones.begin(), stones.end(), stones.begin());
-        int minSum = stones.back();
+        int scoreDiff = stones.back();
         for (int i = n - 2; i >= 1; i--) {
-            minSum = max(minSum, stones[i] - minSum);
+            scoreDiff = max(scoreDiff, stones[i] - scoreDiff);
         }
-        return minSum;
+        return scoreDiff;
     }
 };
