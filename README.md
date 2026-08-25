@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/cout-arya/leetcode-practice/tree/master/0043-multiply-strings) |
+| [0060-permutation-sequence](https://github.com/cout-arya/leetcode-practice/tree/master/0060-permutation-sequence) |
 | [0204-count-primes](https://github.com/cout-arya/leetcode-practice/tree/master/0204-count-primes) |
 | [0264-ugly-number-ii](https://github.com/cout-arya/leetcode-practice/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/cout-arya/leetcode-practice/tree/master/0279-perfect-squares) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/cout-arya/leetcode-practice/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/cout-arya/leetcode-practice/tree/master/0044-wildcard-matching) |
+| [0060-permutation-sequence](https://github.com/cout-arya/leetcode-practice/tree/master/0060-permutation-sequence) |
 | [0486-predict-the-winner](https://github.com/cout-arya/leetcode-practice/tree/master/0486-predict-the-winner) |
 ## Number Theory
 |  |
