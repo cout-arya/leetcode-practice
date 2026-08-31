@@ -551,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/cout-arya/leetcode-practice/tree/master/0024-swap-nodes-in-pairs) |
 | [0138-copy-list-with-random-pointer](https://github.com/cout-arya/leetcode-practice/tree/master/0138-copy-list-with-random-pointer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/cout-arya/leetcode-practice/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/cout-arya/leetcode-practice/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Merge Sort
 |  |
 | ------- |
