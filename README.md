@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/cout-arya/leetcode-practice/tree/master/0279-perfect-squares) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/cout-arya/leetcode-practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/cout-arya/leetcode-practice/tree/master/0322-coin-change) |
+| [0357-count-numbers-with-unique-digits](https://github.com/cout-arya/leetcode-practice/tree/master/0357-count-numbers-with-unique-digits) |
 | [0392-is-subsequence](https://github.com/cout-arya/leetcode-practice/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/cout-arya/leetcode-practice/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/cout-arya/leetcode-practice/tree/master/0494-target-sum) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/cout-arya/leetcode-practice/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/cout-arya/leetcode-practice/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/cout-arya/leetcode-practice/tree/master/0257-binary-tree-paths) |
+| [0357-count-numbers-with-unique-digits](https://github.com/cout-arya/leetcode-practice/tree/master/0357-count-numbers-with-unique-digits) |
 | [0494-target-sum](https://github.com/cout-arya/leetcode-practice/tree/master/0494-target-sum) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/cout-arya/leetcode-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sliding Window
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/cout-arya/leetcode-practice/tree/master/0204-count-primes) |
 | [0264-ugly-number-ii](https://github.com/cout-arya/leetcode-practice/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/cout-arya/leetcode-practice/tree/master/0279-perfect-squares) |
+| [0357-count-numbers-with-unique-digits](https://github.com/cout-arya/leetcode-practice/tree/master/0357-count-numbers-with-unique-digits) |
 | [0415-add-strings](https://github.com/cout-arya/leetcode-practice/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/cout-arya/leetcode-practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/cout-arya/leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
