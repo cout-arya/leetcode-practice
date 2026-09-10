@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/cout-arya/leetcode-practice/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/cout-arya/leetcode-practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/cout-arya/leetcode-practice/tree/master/1386-cinema-seat-allocation) |
+| [2374-node-with-highest-edge-score](https://github.com/cout-arya/leetcode-practice/tree/master/2374-node-with-highest-edge-score) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/cout-arya/leetcode-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/cout-arya/leetcode-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/cout-arya/leetcode-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/cout-arya/leetcode-practice/tree/master/0133-clone-graph) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/cout-arya/leetcode-practice/tree/master/2359-find-closest-node-to-given-two-nodes) |
+| [2374-node-with-highest-edge-score](https://github.com/cout-arya/leetcode-practice/tree/master/2374-node-with-highest-edge-score) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/cout-arya/leetcode-practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/cout-arya/leetcode-practice/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/cout-arya/leetcode-practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
