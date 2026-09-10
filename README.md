@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/cout-arya/leetcode-practice/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/cout-arya/leetcode-practice/tree/master/0695-max-area-of-island) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/cout-arya/leetcode-practice/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2360-longest-cycle-in-a-graph](https://github.com/cout-arya/leetcode-practice/tree/master/2360-longest-cycle-in-a-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/cout-arya/leetcode-practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/cout-arya/leetcode-practice/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/cout-arya/leetcode-practice/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/cout-arya/leetcode-practice/tree/master/0133-clone-graph) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/cout-arya/leetcode-practice/tree/master/2359-find-closest-node-to-given-two-nodes) |
+| [2360-longest-cycle-in-a-graph](https://github.com/cout-arya/leetcode-practice/tree/master/2360-longest-cycle-in-a-graph) |
 | [2374-node-with-highest-edge-score](https://github.com/cout-arya/leetcode-practice/tree/master/2374-node-with-highest-edge-score) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/cout-arya/leetcode-practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/cout-arya/leetcode-practice/tree/master/2685-count-the-number-of-complete-components) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/cout-arya/leetcode-practice/tree/master/2360-longest-cycle-in-a-graph) |
 | [3620-network-recovery-pathways](https://github.com/cout-arya/leetcode-practice/tree/master/3620-network-recovery-pathways) |
 ## Depth-First Search
 |  |
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/cout-arya/leetcode-practice/tree/master/0695-max-area-of-island) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/cout-arya/leetcode-practice/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/cout-arya/leetcode-practice/tree/master/2359-find-closest-node-to-given-two-nodes) |
+| [2360-longest-cycle-in-a-graph](https://github.com/cout-arya/leetcode-practice/tree/master/2360-longest-cycle-in-a-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/cout-arya/leetcode-practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/cout-arya/leetcode-practice/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/cout-arya/leetcode-practice/tree/master/3310-remove-methods-from-project) |
@@ -656,4 +660,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/cout-arya/leetcode-practice/tree/master/0146-lru-cache) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/cout-arya/leetcode-practice/tree/master/2360-longest-cycle-in-a-graph) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/cout-arya/leetcode-practice/tree/master/2360-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
