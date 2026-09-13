@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/cout-arya/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/cout-arya/leetcode-practice/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/cout-arya/leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0460-lfu-cache](https://github.com/cout-arya/leetcode-practice/tree/master/0460-lfu-cache) |
 | [1331-rank-transform-of-an-array](https://github.com/cout-arya/leetcode-practice/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/cout-arya/leetcode-practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/cout-arya/leetcode-practice/tree/master/1386-cinema-seat-allocation) |
@@ -584,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/cout-arya/leetcode-practice/tree/master/0024-swap-nodes-in-pairs) |
 | [0138-copy-list-with-random-pointer](https://github.com/cout-arya/leetcode-practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/cout-arya/leetcode-practice/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/cout-arya/leetcode-practice/tree/master/0460-lfu-cache) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/cout-arya/leetcode-practice/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/cout-arya/leetcode-practice/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Merge Sort
@@ -660,10 +662,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/cout-arya/leetcode-practice/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/cout-arya/leetcode-practice/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/cout-arya/leetcode-practice/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/cout-arya/leetcode-practice/tree/master/0460-lfu-cache) |
 ## Kosaraju's Algorithm
 |  |
 | ------- |
