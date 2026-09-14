@@ -514,12 +514,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/cout-arya/leetcode-practice/tree/master/0316-remove-duplicate-letters) |
 | [0739-daily-temperatures](https://github.com/cout-arya/leetcode-practice/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/cout-arya/leetcode-practice/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/cout-arya/leetcode-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/cout-arya/leetcode-practice/tree/master/0316-remove-duplicate-letters) |
 | [0739-daily-temperatures](https://github.com/cout-arya/leetcode-practice/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/cout-arya/leetcode-practice/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/cout-arya/leetcode-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Segment Tree
 |  |
@@ -664,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/cout-arya/leetcode-practice/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/cout-arya/leetcode-practice/tree/master/0460-lfu-cache) |
+| [0901-online-stock-span](https://github.com/cout-arya/leetcode-practice/tree/master/0901-online-stock-span) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -681,4 +684,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/cout-arya/leetcode-practice/tree/master/0836-rectangle-overlap) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/cout-arya/leetcode-practice/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
