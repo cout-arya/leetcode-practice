@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/cout-arya/leetcode-practice/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/cout-arya/leetcode-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/cout-arya/leetcode-practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/cout-arya/leetcode-practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/cout-arya/leetcode-practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1872-stone-game-viii](https://github.com/cout-arya/leetcode-practice/tree/master/1872-stone-game-viii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/cout-arya/leetcode-practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/cout-arya/leetcode-practice/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/cout-arya/leetcode-practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/cout-arya/leetcode-practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/cout-arya/leetcode-practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2374-node-with-highest-edge-score](https://github.com/cout-arya/leetcode-practice/tree/master/2374-node-with-highest-edge-score) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/cout-arya/leetcode-practice/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/cout-arya/leetcode-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/cout-arya/leetcode-practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/cout-arya/leetcode-practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1668-maximum-repeating-substring](https://github.com/cout-arya/leetcode-practice/tree/master/1668-maximum-repeating-substring) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/cout-arya/leetcode-practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/cout-arya/leetcode-practice/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/cout-arya/leetcode-practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/cout-arya/leetcode-practice/tree/master/2213-longest-substring-of-one-repeating-character) |
