@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/cout-arya/leetcode-practice/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/cout-arya/leetcode-practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/cout-arya/leetcode-practice/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/cout-arya/leetcode-practice/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/cout-arya/leetcode-practice/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/cout-arya/leetcode-practice/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/cout-arya/leetcode-practice/tree/master/0049-group-anagrams) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/cout-arya/leetcode-practice/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/cout-arya/leetcode-practice/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/cout-arya/leetcode-practice/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/cout-arya/leetcode-practice/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/cout-arya/leetcode-practice/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/cout-arya/leetcode-practice/tree/master/0115-distinct-subsequences) |
@@ -549,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/cout-arya/leetcode-practice/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/cout-arya/leetcode-practice/tree/master/0032-longest-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/cout-arya/leetcode-practice/tree/master/0316-remove-duplicate-letters) |
 | [0739-daily-temperatures](https://github.com/cout-arya/leetcode-practice/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/cout-arya/leetcode-practice/tree/master/0901-online-stock-span) |
@@ -733,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/cout-arya/leetcode-practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/cout-arya/leetcode-practice/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/cout-arya/leetcode-practice/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/cout-arya/leetcode-practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/cout-arya/leetcode-practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
