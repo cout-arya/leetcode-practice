@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/cout-arya/leetcode-practice/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/cout-arya/leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/cout-arya/leetcode-practice/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/cout-arya/leetcode-practice/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/cout-arya/leetcode-practice/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/cout-arya/leetcode-practice/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/cout-arya/leetcode-practice/tree/master/0392-is-subsequence) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/cout-arya/leetcode-practice/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/cout-arya/leetcode-practice/tree/master/0133-clone-graph) |
 | [0279-perfect-squares](https://github.com/cout-arya/leetcode-practice/tree/master/0279-perfect-squares) |
+| [0301-remove-invalid-parentheses](https://github.com/cout-arya/leetcode-practice/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/cout-arya/leetcode-practice/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/cout-arya/leetcode-practice/tree/master/0695-max-area-of-island) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/cout-arya/leetcode-practice/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/cout-arya/leetcode-practice/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/cout-arya/leetcode-practice/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/cout-arya/leetcode-practice/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/cout-arya/leetcode-practice/tree/master/0301-remove-invalid-parentheses) |
 | [0357-count-numbers-with-unique-digits](https://github.com/cout-arya/leetcode-practice/tree/master/0357-count-numbers-with-unique-digits) |
 | [0494-target-sum](https://github.com/cout-arya/leetcode-practice/tree/master/0494-target-sum) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/cout-arya/leetcode-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
