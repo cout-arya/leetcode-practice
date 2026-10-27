@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/cout-arya/leetcode-practice/tree/master/0877-stone-game) |
 | [1046-last-stone-weight](https://github.com/cout-arya/leetcode-practice/tree/master/1046-last-stone-weight) |
 | [1140-stone-game-ii](https://github.com/cout-arya/leetcode-practice/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/cout-arya/leetcode-practice/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/cout-arya/leetcode-practice/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/cout-arya/leetcode-practice/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/cout-arya/leetcode-practice/tree/master/1301-number-of-paths-with-max-score) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/cout-arya/leetcode-practice/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/cout-arya/leetcode-practice/tree/master/0054-spiral-matrix) |
 | [0695-max-area-of-island](https://github.com/cout-arya/leetcode-practice/tree/master/0695-max-area-of-island) |
+| [1254-number-of-closed-islands](https://github.com/cout-arya/leetcode-practice/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/cout-arya/leetcode-practice/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/cout-arya/leetcode-practice/tree/master/1301-number-of-paths-with-max-score) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/cout-arya/leetcode-practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/cout-arya/leetcode-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0695-max-area-of-island](https://github.com/cout-arya/leetcode-practice/tree/master/0695-max-area-of-island) |
+| [1254-number-of-closed-islands](https://github.com/cout-arya/leetcode-practice/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/cout-arya/leetcode-practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/cout-arya/leetcode-practice/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/cout-arya/leetcode-practice/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/cout-arya/leetcode-practice/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/cout-arya/leetcode-practice/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/cout-arya/leetcode-practice/tree/master/0695-max-area-of-island) |
+| [1254-number-of-closed-islands](https://github.com/cout-arya/leetcode-practice/tree/master/1254-number-of-closed-islands) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/cout-arya/leetcode-practice/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2360-longest-cycle-in-a-graph](https://github.com/cout-arya/leetcode-practice/tree/master/2360-longest-cycle-in-a-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/cout-arya/leetcode-practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -441,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/cout-arya/leetcode-practice/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/cout-arya/leetcode-practice/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/cout-arya/leetcode-practice/tree/master/0695-max-area-of-island) |
+| [1254-number-of-closed-islands](https://github.com/cout-arya/leetcode-practice/tree/master/1254-number-of-closed-islands) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/cout-arya/leetcode-practice/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/cout-arya/leetcode-practice/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2360-longest-cycle-in-a-graph](https://github.com/cout-arya/leetcode-practice/tree/master/2360-longest-cycle-in-a-graph) |
